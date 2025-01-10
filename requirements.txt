@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+Gunicorn
+Pyarrow
+opendatasets
