@@ -21,8 +21,8 @@ This web service provides a user interface and an API endpoint to classify SMS m
 1. **Clone the repository** :
 
     ```bash
-    git clone https://github.com/nirmit27/SMS-Spam-Classifier.git
-    cd sms-spam-classifier
+    git clone https://github.com/AbdualimovBotir/SMS_EMAIL_SPAM_Detector_web_app.git
+    cd SMS_EMAIL_SPAM_Detector_web_app
     ```
 
 2. **Install dependencies** :
