@@ -8,4 +8,5 @@ scikit-learn
 Gunicorn
 Pyarrow
 opendatasets
-Werkzeug
+Werkzeug==2.2.3
+
